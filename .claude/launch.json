@@ -1,0 +1,12 @@
+{
+  "version": "0.0.1",
+  "configurations": [
+    {
+      "name": "hypa-bets",
+      "runtimeExecutable": "npm",
+      "runtimeArgs": ["--prefix", "../hypa-bets", "run", "dev"],
+      "port": 3005,
+      "autoPort": true
+    }
+  ]
+}
